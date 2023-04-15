@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from Morocco</h3>
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Laravel<br>⚡ The funiest person
+<br>🌱 I’m currently learning Laravel<br>⚡ The funniest person
 
 
 ## 🌐 Socials:
