@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning JAVA<br>⚡ The funniest person
+<br>🌱 I’m currently learning JAVA && SpringBoot<br>⚡ The funniest person
 
 
 ## 🌐 Socials:
