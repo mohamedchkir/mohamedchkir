@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<br>🌱 I’m currently learning SpringBoot | Angular <br>⚡ The funniest person
+<br>🌱 I’m currently learning SpringBoot | Angular | Microservices <br>⚡ The funniest person
 
 
 ## 🌐 Socials:
@@ -51,7 +51,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohamedchkir&icon=5&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">[![](https://visitcount.itsvg.in/api?id=mohamedchkir&icon=5&color=0)](https://visitcount.itsvg.in)</h2>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MChkir) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MChkir) 
